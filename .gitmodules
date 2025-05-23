@@ -7,3 +7,6 @@
 [submodule "Nginx_logs"]
 	path = Nginx_logs
 	url = git@github.com:Rancade/Nginx_logs.git
+[submodule "Script/install_MySQL"]
+	path = Script/install_MySQL
+	url = git@github.com:Rancade/install_MySQL.git
