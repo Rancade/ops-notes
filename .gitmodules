@@ -1,12 +1,3 @@
-[submodule "Auto_timed_CPU_Monitor"]
-	path = Auto_timed_CPU_Monitor
-	url = git@github.com:Rancade/Auto_timed_CPU_Monitor.git
-[submodule "install_MySQL"]
-	path = install_MySQL
-	url = git@github.com:Rancade/install_MySQL.git
-[submodule "Nginx_logs"]
-	path = Nginx_logs
-	url = git@github.com:Rancade/Nginx_logs.git
 [submodule "Script/install_MySQL"]
 	path = Script/install_MySQL
 	url = git@github.com:Rancade/install_MySQL.git

@@ -7,7 +7,7 @@
 
 ## 📜 脚本目录
 
-### 1. ⏱️ [Auto_time_CPU 实时监控CPU使用状态](Auto_timed_CPU_Monitor/README.md)
+### 1. ⏱️ [Auto_time_CPU 实时监控CPU使用状态](https://github.com/Rancade/Auto_timed_CPU_Monitor/tree/4d8bbe92a37d84913ebf65e4b25908ae1f1108ef)
 ```bash
 crontab -e 
 
@@ -27,7 +27,7 @@ crontab -e
 ### 🛠️ 功能特点
 - **自动安装**：一键部署 MySQL 环境
 
-### 3. 🛡️ [Nginx_logs 自动封禁 Nginx ip 访问日志](Nginx_logs/README.md)
+### 3. 🛡️ [Nginx_logs 自动封禁 Nginx ip 访问日志](https://github.com/Rancade/Nginx_logs/tree/d80c4301e2a64254a10defdda579dcc136cff41e)
 ```bash
 crontab -e 
 
