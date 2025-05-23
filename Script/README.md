@@ -19,7 +19,7 @@ crontab -e
 - **历史记录**：自动保存监控日志 📝
 - **可爱预警**：使用颜文字区分告警级别 (◕‿◕✿)
 
-### 2. 🐬 [install_MySQL 自动安装 MySQL](install_MySQL @ 4fc0f2e/README.md)
+### 2. 🐬 [install_MySQL 自动安装 MySQL](https://github.com/Rancade/install_MySQL/tree/4fc0f2e97969c0717d4871601738e849d99bb73c)
 ```bash
 # 一键部署MySQL
 ./install_mysql.sh
